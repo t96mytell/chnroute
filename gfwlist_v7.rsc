@@ -5612,6 +5612,7 @@
     "www.thechinastory.org";
     "www.wan-press.org";
     "www.websnapr.com";
+    "www.xicons.org";
     "www.zensur.freerk.com";
     "www1.american.edu";
     "www1.biz";
@@ -5885,4 +5886,4 @@
 /ip dns cache flush
 
 # Log completion
-/log info "GFW domain list updated with 5869 domains"
+/log info "GFW domain list updated with 5870 domains"
