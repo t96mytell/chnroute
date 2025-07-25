@@ -5717,6 +5717,7 @@
     "yam.org.tw";
     "yande.re";
     "yanghengjun.com";
+    "yangzhi.org";
     "yasni.co.uk";
     "yasukuni.or.jp";
     "yayabay.com";
@@ -5886,4 +5887,4 @@
 /ip dns cache flush
 
 # Log completion
-/log info "GFW domain list updated with 5870 domains"
+/log info "GFW domain list updated with 5871 domains"
