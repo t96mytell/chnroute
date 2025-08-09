@@ -3170,6 +3170,7 @@
     "matters.town";
     "matthewdgreen.wordpress.com";
     "mattwilcox.net";
+    "maven.neoforged.net";
     "maxing.jp";
     "mayimayi.com";
     "mcadforums.com";
@@ -5893,4 +5894,4 @@
 /ip dns cache flush
 
 # Log completion
-/log info "GFW domain list updated with 5877 domains"
+/log info "GFW domain list updated with 5878 domains"
