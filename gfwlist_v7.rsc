@@ -518,6 +518,7 @@
     "bet365.com";
     "betaclouds.net";
     "betfair.com";
+    "betterhash.net";
     "betternet.co";
     "bettervpn.com";
     "bettween.com";
@@ -2378,6 +2379,7 @@
     "heqinglian.net";
     "heritage.org";
     "herokuapp.com";
+    "herominers.com";
     "hexieshe.com";
     "hexieshe.xyz";
     "hexxeh.net";
@@ -2748,6 +2750,7 @@
     "itaiwan.gov.tw";
     "italiatibet.org";
     "itasoftware.com";
+    "itch.io";
     "itemdb.com";
     "itemfix.com";
     "ithelp.ithome.com.tw";
@@ -5898,4 +5901,4 @@
 /ip dns cache flush
 
 # Log completion
-/log info "GFW domain list updated with 5882 domains"
+/log info "GFW domain list updated with 5885 domains"
