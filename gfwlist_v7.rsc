@@ -3772,6 +3772,7 @@
     "paljorpublications.com";
     "paltalk.com";
     "panamapapers.sueddeutsche.de";
+    "pancakeswap.finance";
     "pandafan.pub";
     "pandapow.co";
     "pandapow.net";
@@ -3838,6 +3839,7 @@
     "perplexity.ai";
     "persecutionblog.com";
     "persiankitty.com";
+    "pewresearch.org";
     "phapluan.org";
     "phayul.com";
     "philborges.com";
@@ -3967,6 +3969,7 @@
     "prisoneralert.com";
     "pritunl.com";
     "privacybox.de";
+    "privacyguides.org";
     "private.com";
     "privateinternetaccess.com";
     "privatepaste.com";
@@ -5902,4 +5905,4 @@
 /ip dns cache flush
 
 # Log completion
-/log info "GFW domain list updated with 5886 domains"
+/log info "GFW domain list updated with 5889 domains"
