@@ -2757,6 +2757,7 @@
     "itemdb.com";
     "itemfix.com";
     "ithelp.ithome.com.tw";
+    "itiger.com";
     "itsaol.com";
     "itshidden.com";
     "itsky.it";
@@ -5910,4 +5911,4 @@
 /ip dns cache flush
 
 # Log completion
-/log info "GFW domain list updated with 5894 domains"
+/log info "GFW domain list updated with 5895 domains"
