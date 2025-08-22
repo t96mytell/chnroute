@@ -1140,6 +1140,7 @@
     "cotweet.com";
     "counter.social";
     "coursehero.com";
+    "covenantswatch.org.tw";
     "coze.com";
     "cpj.org";
     "cpu-monkey.com";
@@ -5911,4 +5912,4 @@
 /ip dns cache flush
 
 # Log completion
-/log info "GFW domain list updated with 5895 domains"
+/log info "GFW domain list updated with 5896 domains"
