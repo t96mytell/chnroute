@@ -1689,6 +1689,7 @@
     "fdc89.jp";
     "feedburner.com";
     "feeder.co";
+    "feedly.com";
     "feeds.fileforum.com";
     "feedx.net";
     "feelssh.com";
@@ -3319,6 +3320,7 @@
     "mog.com";
     "mohu.club";
     "mohu.rocks";
+    "moj.gov.tw";
     "mojim.com";
     "mol.gov.tw";
     "molihua.org";
@@ -5914,4 +5916,4 @@
 /ip dns cache flush
 
 # Log completion
-/log info "GFW domain list updated with 5898 domains"
+/log info "GFW domain list updated with 5900 domains"
