@@ -1379,6 +1379,7 @@
     "doujincafe.com";
     "download.aircrack-ng.org";
     "download.cnet.com";
+    "dpdns.org";
     "dphk.org";
     "dpool.top";
     "dpp.org.tw";
@@ -5916,4 +5917,4 @@
 /ip dns cache flush
 
 # Log completion
-/log info "GFW domain list updated with 5900 domains"
+/log info "GFW domain list updated with 5901 domains"
