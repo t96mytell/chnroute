@@ -742,6 +742,8 @@
     "bsky.app";
     "bsky.network";
     "bsky.social";
+    "bt4g.org";
+    "bt4gprx.com";
     "bt95.com";
     "btaia.com";
     "btbit.net";
@@ -4691,6 +4693,7 @@
     "talkonly.net";
     "tanc.org";
     "tangren.us";
+    "tanks.gg";
     "taoism.net";
     "tapanwap.com";
     "tapatalk.com";
@@ -5916,4 +5919,4 @@
 /ip dns cache flush
 
 # Log completion
-/log info "GFW domain list updated with 5900 domains"
+/log info "GFW domain list updated with 5903 domains"
