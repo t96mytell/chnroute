@@ -173,6 +173,7 @@
     "addons.mozilla.org";
     "addyoutube.com";
     "adelaidebbs.com";
+    "adguard-vpn.com";
     "admin.recaptcha.net";
     "admob.com";
     "adpl.org.hk";
@@ -2382,6 +2383,7 @@
     "have8.com";
     "hbg.com";
     "hbo.com";
+    "hbomax.com";
     "hclips.com";
     "hd.stheadline.com";
     "hdtvb.net";
@@ -3324,6 +3326,7 @@
     "mixx.com";
     "mizzmona.com";
     "mjib.gov.tw";
+    "mjj.rip";
     "mjlsh.usc.cuhk.edu.hk";
     "mlc.ai";
     "mlcool.com";
@@ -4236,6 +4239,7 @@
     "rumble.com";
     "runbtx.com";
     "rushbee.com";
+    "rustdesk.com";
     "rusvpn.com";
     "ruten.com.tw";
     "rutracker.net";
@@ -5962,4 +5966,4 @@
 /ip dns cache flush
 
 # Log completion
-/log info "GFW domain list updated with 5946 domains"
+/log info "GFW domain list updated with 5950 domains"
