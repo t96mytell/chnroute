@@ -1023,7 +1023,6 @@
     "chromecast.com";
     "chromeexperiments.com";
     "chromestatus.com";
-    "chromium.org";
     "chuang-yen.org";
     "chubold.com";
     "chubun.com";
@@ -3132,6 +3131,7 @@
     "looktoronto.com";
     "lotsawahouse.org";
     "lotuslight.org.tw";
+    "lovart.ai";
     "lovetvshow.com";
     "lpsg.com";
     "lrfz.com";
