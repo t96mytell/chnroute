@@ -212,6 +212,7 @@
     "aiweiwei.com";
     "aiweiweiblog.com";
     "akademiye.org";
+    "akamai.tvb.com";
     "akamaihd.net";
     "akiba-online.com";
     "akiba-web.com";
@@ -285,7 +286,10 @@
     "angularjs.org";
     "animecrazy.net";
     "aniscartujo.com";
+    "annas-archive.in";
+    "annas-archive.li";
     "annas-archive.org";
+    "annas-archive.pm";
     "annas-archive.se";
     "annatam.com";
     "anobii.com";
@@ -1790,7 +1794,6 @@
     "forum.mymaji.com";
     "forum.palmislife.com";
     "forum.slime.com.tw";
-    "forum.tvb.com";
     "forum.xinbao.de";
     "forum4hk.com";
     "fountmedia.io";
@@ -3473,6 +3476,7 @@
     "myspacecdn.com";
     "mytalkbox.com";
     "mytizi.com";
+    "mytvsuper.com";
     "mywife.cc";
     "mywww.biz";
     "myz.info";
@@ -5138,6 +5142,7 @@
     "tv.com";
     "tv.jtbc.joins.com";
     "tvants.com";
+    "tvbanywhere.com";
     "tvboxnow.com";
     "tvider.com";
     "tvmost.com.hk";
@@ -6012,4 +6017,4 @@
 /ip dns cache flush
 
 # Log completion
-/log info "GFW domain list updated with 5996 domains"
+/log info "GFW domain list updated with 6001 domains"
