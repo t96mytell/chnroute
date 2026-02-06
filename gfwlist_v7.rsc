@@ -581,6 +581,7 @@
     "bitshare.com";
     "bitsnoop.com";
     "bitterwinter.org";
+    "bittorrent.com";
     "bitvise.com";
     "bitz.ai";
     "bizhat.com";
@@ -2417,6 +2418,7 @@
     "helpeachpeople.com";
     "helpster.de";
     "helpzhuling.org";
+    "hembed.com";
     "hentai.to";
     "hentaitube.tv";
     "hentaivideoworld.com";
@@ -5362,6 +5364,7 @@
     "uygur.org";
     "uymaarip.com";
     "v2.help";
+    "v2.hysteria.network";
     "v2ex.com";
     "v2fly.org";
     "v2ray.com";
@@ -6031,4 +6034,4 @@
 /ip dns cache flush
 
 # Log completion
-/log info "GFW domain list updated with 6015 domains"
+/log info "GFW domain list updated with 6018 domains"
