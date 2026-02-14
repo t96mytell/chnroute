@@ -3854,6 +3854,7 @@
     "wallmama.com";
     "wallpapercasa.com";
     "wallsttv.com";
+    "wallzhihu.com";
     "waltermartin.com";
     "waltermartin.org";
     "wanderinghorse.net";
@@ -4228,4 +4229,4 @@
 /ip dns cache flush
 
 # Log completion
-/log info "GFW domain list updated with 4212 domains"
+/log info "GFW domain list updated with 4213 domains"
