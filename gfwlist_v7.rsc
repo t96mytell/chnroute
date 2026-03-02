@@ -764,6 +764,7 @@
     "ck101.com";
     "classicalguitarblog.net";
     "claude.ai";
+    "claude.com";
     "cldr.unicode.org";
     "clearsurance.com";
     "clementine-player.org";
@@ -2270,6 +2271,7 @@
     "mangafox.me";
     "mangmang.run";
     "manta.com";
+    "manus.im";
     "manyvoices.news";
     "marc.info";
     "martau.com";
@@ -3987,7 +3989,6 @@
     "www.hoyolab.com";
     "www.hustlercash.com";
     "www.idlcoyote.com";
-    "www.imdb.com";
     "www.kindleren.com";
     "www.lorenzetti.com.br";
     "www.m-sport.co.uk";
@@ -4208,4 +4209,4 @@
 /ip dns cache flush
 
 # Log completion
-/log info "GFW domain list updated with 4192 domains"
+/log info "GFW domain list updated with 4193 domains"
