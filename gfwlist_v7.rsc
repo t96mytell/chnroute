@@ -3020,7 +3020,6 @@
     "rutracker.org";
     "rxhj.net";
     "s-cute.com";
-    "s.rmimg.com";
     "s.yimg.com";
     "s3-ap-*.amazonaws.com";
     "s3-ap-northeast-1.amazonaws.com";
@@ -4225,4 +4224,4 @@
 /ip dns cache flush
 
 # Log completion
-/log info "GFW domain list updated with 4209 domains"
+/log info "GFW domain list updated with 4208 domains"
