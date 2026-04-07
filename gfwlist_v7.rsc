@@ -853,6 +853,7 @@
     "cpu-monkey.com";
     "cq99.us";
     "crackle.com";
+    "crashlytics.com";
     "crazypool.org";
     "crazyshit.com";
     "crbug.com";
@@ -4229,4 +4230,4 @@
 /ip dns cache flush
 
 # Log completion
-/log info "GFW domain list updated with 4213 domains"
+/log info "GFW domain list updated with 4214 domains"
