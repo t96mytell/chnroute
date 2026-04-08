@@ -2321,7 +2321,6 @@
     "mediawiki.org";
     "medium.com";
     "meee.com.tw";
-    "meetup.com";
     "mega.co.nz";
     "mega.io";
     "mega.nz";
@@ -2389,6 +2388,7 @@
     "mirrormedia.mg";
     "missav.com";
     "missav.ws";
+    "mistral.ai";
     "mitbbs.com";
     "miuipolska.pl";
     "mixero.com";
@@ -2895,7 +2895,6 @@
     "putty.org";
     "pximg.net";
     "python.com.tw";
-    "pytorch.org";
     "qbittorrent.org";
     "qgirl.com.tw";
     "qi-gong.me";
@@ -4230,4 +4229,4 @@
 /ip dns cache flush
 
 # Log completion
-/log info "GFW domain list updated with 4214 domains"
+/log info "GFW domain list updated with 4213 domains"
