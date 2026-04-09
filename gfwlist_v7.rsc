@@ -191,11 +191,9 @@
     "angola.org";
     "angularjs.org";
     "aniscartujo.com";
-    "annas-archive.in";
-    "annas-archive.li";
-    "annas-archive.org";
-    "annas-archive.pm";
-    "annas-archive.se";
+    "annas-archive.gd";
+    "annas-archive.gl";
+    "annas-archive.pk";
     "anobii.com";
     "anonfiles.com";
     "anonymouse.org";
@@ -3360,7 +3358,6 @@
     "tbssqh.org";
     "teachparentstech.org";
     "technews.tw";
-    "techspot.com";
     "techviz.net";
     "teck.in";
     "teco-hk.org";
@@ -3374,7 +3371,6 @@
     "telegram.org";
     "telegram.space";
     "telegramdownload.com";
-    "telegraph.co.uk";
     "telesco.pe";
     "tellapart.com";
     "temu.com";
@@ -4229,4 +4225,4 @@
 /ip dns cache flush
 
 # Log completion
-/log info "GFW domain list updated with 4213 domains"
+/log info "GFW domain list updated with 4209 domains"
