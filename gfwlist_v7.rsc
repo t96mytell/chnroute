@@ -3054,6 +3054,7 @@
     "savetibetstore.org";
     "saveuighur.org";
     "sbme.me";
+    "sbti.unun.dev";
     "scache.vzw.com";
     "scache1.vzw.com";
     "scache2.vzw.com";
@@ -4225,4 +4226,4 @@
 /ip dns cache flush
 
 # Log completion
-/log info "GFW domain list updated with 4209 domains"
+/log info "GFW domain list updated with 4210 domains"
