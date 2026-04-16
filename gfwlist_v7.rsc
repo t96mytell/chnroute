@@ -297,6 +297,7 @@
     "avg.com";
     "avgle.com";
     "avidemux.org";
+    "avistaz.to";
     "avmo.pw";
     "avmoo.pw";
     "avoision.com";
@@ -4213,4 +4214,4 @@
 /ip dns cache flush
 
 # Log completion
-/log info "GFW domain list updated with 4197 domains"
+/log info "GFW domain list updated with 4198 domains"
