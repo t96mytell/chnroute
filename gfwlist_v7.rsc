@@ -3052,9 +3052,6 @@
     "saveuighur.org";
     "sbme.me";
     "sbti.unun.dev";
-    "scache.vzw.com";
-    "scache1.vzw.com";
-    "scache2.vzw.com";
     "schema.org";
     "scmp.com";
     "scramble.io";
@@ -3235,7 +3232,6 @@
     "sproutcore.com";
     "squirrelvpn.com";
     "ss-link.com";
-    "ss7.vzw.com";
     "ssglobal.co";
     "ssl.webpack.de";
     "sspanel.net";
@@ -4224,4 +4220,4 @@
 /ip dns cache flush
 
 # Log completion
-/log info "GFW domain list updated with 4208 domains"
+/log info "GFW domain list updated with 4204 domains"
