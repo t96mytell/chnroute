@@ -3144,6 +3144,7 @@
     "shwchurch.org";
     "shwchurch3.com";
     "sidelinesnews.com";
+    "sider.ai";
     "signal.org";
     "silvergatebank.com";
     "simbolostwitter.com";
@@ -4205,6 +4206,7 @@
     "zh.pokerstrategy.com";
     "zh.wikiquote.org";
     "zhangtianliang.com";
+    "zhangzhehan.net";
     "zhanlve.org";
     "zhao.1984.city";
     "zhengjian.org";
@@ -4252,4 +4254,4 @@
 /ip dns cache flush
 
 # Log completion
-/log info "GFW domain list updated with 4236 domains"
+/log info "GFW domain list updated with 4238 domains"
