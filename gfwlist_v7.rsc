@@ -879,6 +879,7 @@
     "crazyshit.com";
     "crbug.com";
     "crchina.org";
+    "creader.com";
     "creaders.net";
     "creativelab5.com";
     "cristyli.com";
@@ -4360,4 +4361,4 @@
 /ip dns cache flush
 
 # Log completion
-/log info "GFW domain list updated with 4344 domains"
+/log info "GFW domain list updated with 4345 domains"
