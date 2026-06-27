@@ -138,6 +138,7 @@
     "aiph.net";
     "airconsole.com";
     "airitilibrary.com";
+    "airuniversity.af.edu";
     "airvpn.org";
     "ait.org.tw";
     "aiweiweiblog.com";
@@ -1413,6 +1414,7 @@
     "gaopi.net";
     "gartlive.com";
     "garudalinux.org";
+    "gate.com";
     "gate.io";
     "gatecoin.com";
     "gather.com";
@@ -1791,6 +1793,7 @@
     "gtv1.org";
     "gu-chu-sum.org";
     "guaguass.com";
+    "guangming.com.my";
     "guishan.org";
     "gumroad.com";
     "gunsamerica.com";
@@ -1881,6 +1884,7 @@
     "hkgpao.com";
     "hklts.org.hk";
     "hkmap.live";
+    "hkong.hk";
     "hkopentv.com";
     "hkpeanut.com";
     "hkreporter.com";
@@ -2185,6 +2189,7 @@
     "kepard.com";
     "kex.com";
     "keycdn.com";
+    "kfor.com";
     "khatrimaza.org";
     "kichiku-doujinko.com";
     "kik.com";
@@ -2437,6 +2442,7 @@
     "mgoon.com";
     "mgstage.com";
     "mh4u.org";
+    "mhwindow.org";
     "microvpn.com";
     "mihua.org";
     "mij.rip";
@@ -2821,6 +2827,7 @@
     "pbworks.com";
     "pbxes.com";
     "pbxes.org";
+    "pcgamesn.com";
     "pcgamestorrents.com";
     "pcij.org";
     "pct.org.tw";
@@ -2839,6 +2846,7 @@
     "peopo.org";
     "perfect-privacy.com";
     "periscope.tv";
+    "perma.cc";
     "perplexity.ai";
     "pewresearch.org";
     "phayul.com";
@@ -3087,6 +3095,7 @@
     "renyurenquan.org";
     "resilio.com";
     "resistchina.org";
+    "restofworld.org";
     "retweetrank.com";
     "reuters.com";
     "reutersmedia.net";
@@ -3322,6 +3331,7 @@
     "southnews.com.tw";
     "southpark.cc.com";
     "sowers.org.hk";
+    "spaceforce.mil";
     "spaces.hightail.com";
     "spacex.com";
     "spankbang.com";
@@ -3413,6 +3423,7 @@
     "supervpn.net";
     "superzooi.com";
     "support.futunn.com";
+    "supremecourt.gov";
     "suprememastertv.com";
     "surfeasy.com";
     "surfeasy.com.au";
@@ -3524,6 +3535,7 @@
     "thehindu.com";
     "thehun.net";
     "theinitium.com";
+    "theintercept.com";
     "thenewslens.com";
     "thepiratebay.org";
     "theporndude.com";
@@ -3681,6 +3693,7 @@
     "tronscan.org";
     "trouw.nl";
     "trt.net.tr";
+    "trtworld.com";
     "truebuddha-md.org";
     "trustwallet.com";
     "truthsocial.com";
@@ -3776,6 +3789,7 @@
     "twitturly.com";
     "twkan.com";
     "twreporter.org";
+    "twstalker.com";
     "twt.tl";
     "twtkr.com";
     "twttr.com";
@@ -3990,6 +4004,7 @@
     "warroom.org";
     "waselpro.com";
     "washingtonpost.com";
+    "washingtontimes.com";
     "watchinese.com";
     "watchmygf.net";
     "watchout.tw";
@@ -4211,6 +4226,7 @@
     "xt.com";
     "xt.pub";
     "xtube.com";
+    "xuan.com.my";
     "xuchao.net";
     "xuchao.org";
     "xuehua.us";
@@ -4361,4 +4377,4 @@
 /ip dns cache flush
 
 # Log completion
-/log info "GFW domain list updated with 4345 domains"
+/log info "GFW domain list updated with 4361 domains"
