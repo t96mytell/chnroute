@@ -1172,6 +1172,7 @@
     "expecthim.com";
     "expekt.com";
     "exploader.net";
+    "expressnews.com";
     "expressvpn.com";
     "exrates.me";
     "extmatrix.com";
@@ -4377,4 +4378,4 @@
 /ip dns cache flush
 
 # Log completion
-/log info "GFW domain list updated with 4361 domains"
+/log info "GFW domain list updated with 4362 domains"
