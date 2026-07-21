@@ -4325,6 +4325,7 @@
     "zello.com";
     "zenmate.com";
     "zenmate.com.ru";
+    "zenmux.ai";
     "zerohedge.com";
     "zeronet.io";
     "zh-hans.cfsh99.com";
@@ -4382,4 +4383,4 @@
 /ip dns cache flush
 
 # Log completion
-/log info "GFW domain list updated with 4366 domains"
+/log info "GFW domain list updated with 4367 domains"
