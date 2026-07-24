@@ -778,6 +778,7 @@
     "cia.gov";
     "cici.com";
     "ciciai.com";
+    "circle19.org";
     "cirosantilli.com";
     "citizencn.com";
     "citizenlab.ca";
@@ -2182,6 +2183,7 @@
     "kantie.org";
     "kaotic.com";
     "karayou.com";
+    "kards.com";
     "kathmandupost.com";
     "kawaiikawaii.jp";
     "kawase.com";
@@ -4384,4 +4386,4 @@
 /ip dns cache flush
 
 # Log completion
-/log info "GFW domain list updated with 4368 domains"
+/log info "GFW domain list updated with 4370 domains"
