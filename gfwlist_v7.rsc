@@ -3704,6 +3704,7 @@
     "truebuddha-md.org";
     "trustwallet.com";
     "truthsocial.com";
+    "tryai.dev";
     "tryheart.jp";
     "tsdr.uspto.gov";
     "tt1069.com";
@@ -4386,4 +4387,4 @@
 /ip dns cache flush
 
 # Log completion
-/log info "GFW domain list updated with 4370 domains"
+/log info "GFW domain list updated with 4371 domains"
