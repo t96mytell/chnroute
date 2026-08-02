@@ -694,6 +694,7 @@
     "centerforhumanreprod.com";
     "centralnation.com";
     "centurys.net";
+    "cerebras.ai";
     "certificate-transparency.org";
     "certificate.revocationcheck.com";
     "cfr.org";
@@ -774,6 +775,7 @@
     "chromecast.com";
     "chromeexperiments.com";
     "chromestatus.com";
+    "cht.com.tw";
     "ci-en.jp";
     "cia.gov";
     "cici.com";
@@ -2532,7 +2534,6 @@
     "motherless.com";
     "movements.org";
     "moviefap.com";
-    "mozilla.ai";
     "mpettis.com";
     "mpfinance.com";
     "mpinews.com";
@@ -3002,7 +3003,6 @@
     "pullfolio.co";
     "pure18.com";
     "pureconcepts.net";
-    "puredns.org";
     "pureinsight.org";
     "purepdf.com";
     "purevpn.com";
@@ -3047,7 +3047,6 @@
     "radio.garden";
     "radioaustralia.net.au";
     "radiohilight.net";
-    "radiojar.com";
     "radioline.co";
     "radiovaticana.org";
     "radiovncr.com";
@@ -3160,7 +3159,6 @@
     "safechat.com";
     "safeguarddefenders.com";
     "safervpn.com";
-    "sagernet.org";
     "saintyculture.com";
     "sakuralive.com";
     "salvation.org.hk";
@@ -4154,7 +4152,6 @@
     "www.antd.org";
     "www.aolnews.com";
     "www.bing.com";
-    "www.clashverge.dev";
     "www.cmoinc.org";
     "www.dmm.com";
     "www.eastturkistan.net";
@@ -4390,4 +4387,4 @@
 /ip dns cache flush
 
 # Log completion
-/log info "GFW domain list updated with 4374 domains"
+/log info "GFW domain list updated with 4371 domains"
