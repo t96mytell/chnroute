@@ -1006,6 +1006,7 @@
     "disp.cc";
     "disqus.com";
     "dit-inc.us";
+    "divdyn.com";
     "diyin.org";
     "dizhuzhishang.com";
     "dl-laby.jp";
@@ -4390,4 +4391,4 @@
 /ip dns cache flush
 
 # Log completion
-/log info "GFW domain list updated with 4374 domains"
+/log info "GFW domain list updated with 4375 domains"
