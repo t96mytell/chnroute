@@ -569,6 +569,7 @@
     "breakgfw.com";
     "breakingtweets.com";
     "breakwall.net";
+    "briarproject.org";
     "brill.com";
     "brizzly.com";
     "broadpressinc.com";
@@ -711,6 +712,7 @@
     "chat.com";
     "chat.lmsys.org";
     "chatgpt.com";
+    "chatgpt.site";
     "chatpdf.com";
     "chaturbate.com";
     "checkgfw.com";
@@ -4395,4 +4397,4 @@
 /ip dns cache flush
 
 # Log completion
-/log info "GFW domain list updated with 4379 domains"
+/log info "GFW domain list updated with 4381 domains"
