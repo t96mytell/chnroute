@@ -1874,6 +1874,7 @@
     "himemix.com";
     "hindustantimes.com";
     "hinet.net";
+    "historylines.net";
     "hitbtc.com";
     "hitomi.la";
     "hive.blog";
@@ -2216,6 +2217,7 @@
     "kinmen.travel";
     "kinokuniya.com";
     "kiwi.kz";
+    "kiwix.org";
     "kk-whys.co.jp";
     "kkbox.com";
     "kknews.cc";
@@ -2411,6 +2413,7 @@
     "maven.neoforged.net";
     "mcadforums.com";
     "mcaf.ee";
+    "mceindex.com";
     "mcusercontent.com";
     "md-t.org";
     "me.me";
@@ -3180,6 +3183,7 @@
     "savetibet.org";
     "savetibetstore.org";
     "saveuighur.org";
+    "sb.sb";
     "sbme.me";
     "sbti.unun.dev";
     "schema.org";
@@ -4397,4 +4401,4 @@
 /ip dns cache flush
 
 # Log completion
-/log info "GFW domain list updated with 4381 domains"
+/log info "GFW domain list updated with 4385 domains"
