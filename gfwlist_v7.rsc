@@ -1461,6 +1461,7 @@
     "getlantern.org";
     "getmalus.com";
     "getmdl.io";
+    "getmonero.org";
     "getoutline.org";
     "getsession.org";
     "getsync.com";
@@ -2659,6 +2660,7 @@
     "nhentai.net";
     "nic.cz.cc";
     "nic.gov";
+    "nicoseiga.jp";
     "nicovideo.jp";
     "nightswatch.top";
     "nikke-en.com";
@@ -4404,4 +4406,4 @@
 /ip dns cache flush
 
 # Log completion
-/log info "GFW domain list updated with 4388 domains"
+/log info "GFW domain list updated with 4390 domains"
