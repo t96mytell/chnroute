@@ -909,6 +909,7 @@
     "csuchen.de";
     "csw.org.uk";
     "ct.org.tw";
+    "ctee.com.tw";
     "ctinets.com";
     "ctinews.com";
     "ctinsider.com";
@@ -1893,6 +1894,7 @@
     "hkcoc.com";
     "hkcoc.weather.com.hk";
     "hkdc.us";
+    "hkej.com";
     "hket.com";
     "hkfaa.com";
     "hkgalden.com";
@@ -2315,6 +2317,7 @@
     "linktr.ee";
     "linux.do";
     "linux.org.hk";
+    "linux.sb";
     "liquiditytp.com";
     "liquidvpn.com";
     "listennotes.com";
@@ -4406,4 +4409,4 @@
 /ip dns cache flush
 
 # Log completion
-/log info "GFW domain list updated with 4390 domains"
+/log info "GFW domain list updated with 4393 domains"
