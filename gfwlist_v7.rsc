@@ -617,6 +617,7 @@
     "c-est-simple.com";
     "c-span.org";
     "c-spanvideo.org";
+    "c.go-mpulse.net";
     "c.mi.com";
     "c2cx.com";
     "c3pool.com";
@@ -3032,6 +3033,7 @@
     "qianmo.tw";
     "qiwen.lu";
     "qmp4.com";
+    "qobuz.com";
     "qoos.com";
     "qq.co.za";
     "qstatus.com";
@@ -3910,6 +3912,7 @@
     "vansky.com";
     "vaticannews.va";
     "vatn.org";
+    "vava8.com";
     "vcf-online.org";
     "vcfbuilder.org";
     "veed.io";
@@ -4404,4 +4407,4 @@
 /ip dns cache flush
 
 # Log completion
-/log info "GFW domain list updated with 4388 domains"
+/log info "GFW domain list updated with 4391 domains"
