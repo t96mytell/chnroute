@@ -1404,6 +1404,7 @@
     "futustatic.com";
     "fututrade.com";
     "fututrustee.com";
+    "fuyin116.com";
     "fw.cm";
     "fxcm-chinese.com";
     "fxnetworks.com";
@@ -2558,6 +2559,7 @@
     "mubi.com";
     "mullvad.net";
     "multiply.com";
+    "muse.ai";
     "music.amazon.com";
     "musixmatch.com";
     "muzi.com";
@@ -4407,4 +4409,4 @@
 /ip dns cache flush
 
 # Log completion
-/log info "GFW domain list updated with 4391 domains"
+/log info "GFW domain list updated with 4393 domains"
