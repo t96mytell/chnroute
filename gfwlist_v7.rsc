@@ -413,6 +413,7 @@
     "bignews.org";
     "bigone.com";
     "bild.de";
+    "bilibili.tv";
     "bilinovel.com";
     "biliworld.com";
     "binance.com";
@@ -4469,4 +4470,4 @@
 /ip dns cache flush
 
 # Log completion
-/log info "GFW domain list updated with 4453 domains"
+/log info "GFW domain list updated with 4454 domains"
